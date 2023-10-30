@@ -3,5 +3,6 @@
 void main()
 {
   printf("Hello World!!");
-  printf("\nThis is my first GitHub repository.")
+  printf("\nThis is my first GitHub repository.");
+  printf("\nHello, This is Damodhar!");
 }
